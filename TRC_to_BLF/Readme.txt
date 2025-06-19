@@ -25,5 +25,3 @@ There may be some problems with the script, so make sure these 3 things are work
 “To install the python-can library, use the following command in the terminal: pip install python-can”.
 
 Open Code in VS Code and have the python extensions properly installed.
-
-Translated with DeepL.com (free version)
